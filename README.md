@@ -1,2 +1,2 @@
 # aws
-My simple AWS status page for load balancer
+This is my repo for various AWS scripts etc that I think are important to keep/use.
